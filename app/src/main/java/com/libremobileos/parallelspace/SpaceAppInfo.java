@@ -4,7 +4,7 @@ import android.content.pm.PackageManager;
 import android.content.pm.ResolveInfo;
 import android.graphics.drawable.Drawable;
 
-import com.libremobileos.app.ParallelSpaceManager;
+import com.android.internal.halcyon.app.ParallelSpaceManager;
 
 public class SpaceAppInfo {
 

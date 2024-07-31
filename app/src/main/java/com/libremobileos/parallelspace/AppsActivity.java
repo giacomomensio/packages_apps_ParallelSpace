@@ -9,7 +9,7 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AlertDialog;
 
-import com.libremobileos.app.ParallelSpaceManager;
+import com.android.internal.halcyon.app.ParallelSpaceManager;
 
 import com.android.settingslib.collapsingtoolbar.CollapsingToolbarBaseActivity;
 

@@ -12,7 +12,7 @@ import androidx.lifecycle.ViewModelProvider;
 import androidx.preference.PreferenceScreen;
 import androidx.preference.SwitchPreferenceCompat;
 
-import com.libremobileos.app.ParallelSpaceManager;
+import com.android.internal.halcyon.app.ParallelSpaceManager;
 
 import java.util.List;
 

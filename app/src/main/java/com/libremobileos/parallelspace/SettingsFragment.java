@@ -12,7 +12,7 @@ import androidx.preference.Preference;
 import androidx.preference.PreferenceCategory;
 import androidx.preference.PreferenceFragmentCompat;
 
-import com.libremobileos.app.ParallelSpaceManager;
+import com.android.internal.halcyon.app.ParallelSpaceManager;
 
 import java.util.List;
 
