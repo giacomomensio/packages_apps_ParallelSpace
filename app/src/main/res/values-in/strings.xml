@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Parallel Space</string>
+    <string name="app_summary">Jalankan beberapa aplikasi yang sama secara bersamaan.</string>
+    <string name="intro">Jalankan beberapa aplikasi yang sama secara bersamaan namun dengan ruang yang berbeda!</string>
+
+    <string name="category_spaces">Spaces</string>
+    <string name="no_space">Tidak ada space</string>
+    <string name="space">Space</string>
+    <string name="please_wait">Silahkan tunggu</string>
+    <string name="invalid_user_id">Pengguna invalid</string>
+    <string name="add_space">Tambah Space</string>
+    <string name="remove_space">Hapus Space</string>
+    <string name="cancel">Batal</string>
+
+    <string name="new_space_dialog_title">Buat space baru</string>
+    <string name="new_space_dialog_message">Masukan nama untuk space baru</string>
+    <string name="new_space_dialog_positive">Buat</string>
+    <string name="new_space_progress_message">Membuat space...</string>
+
+    <string name="remove_space_dialog_title">Hapus space</string>
+    <string name="remove_space_dialog_message">Apakah anda yakin ingin mengapus space ini?</string>
+    <string name="remove_space_dialog_positive">Hapus</string>
+    <string name="remove_space_progress_message">Menghapus space...</string>
+
+    <string name="space_name_empty">Nama space tidak boleh kosong</string>
+    <string name="space_limit_reached">Anda sudah mencapai jumlah batas space!</string>
+
+    <string name="default_cloned_summary">Apl ini selalu diclone</string>
+</resources>
